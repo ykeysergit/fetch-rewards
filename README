@@ -1,0 +1,5 @@
+On Win:
+gradlew bootRun
+
+On unix:
+./gradlew bootRun
